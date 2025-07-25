@@ -3,7 +3,7 @@
 
 ## 기술 스택 (Tech Stack)
 
-<p align="center">
+<p align="left">
   <!-- Kotlin -->
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   
@@ -25,9 +25,9 @@
 
 ---
 
-## 
+## Github
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=eric91405&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric91405&layout=compact&theme=tokyonight" height="180" />
 </p>
