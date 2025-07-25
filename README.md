@@ -1,6 +1,6 @@
 <!-- 헤더 이미지 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=MIN2EO's%20GITHUB&fontSize=50&fontAlign=70&fontAlignY=36&animation=twinkling)
-## 🛠️ 기술 스택 (Tech Stack)
+## 기술 스택 (Tech Stack)
 
 <p align="center">
   <!-- Kotlin -->
