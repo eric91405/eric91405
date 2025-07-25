@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=MIN2EO's%20GITHUB&fontSize=50&fontAlign=70&fontAlignY=36&animation=twinkling)
 ## 기술 스택 (Tech Stack)
 
-<p align="center">
+<p align="left">
   <!-- Kotlin -->
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   
