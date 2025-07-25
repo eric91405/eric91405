@@ -1,7 +1,7 @@
 <!-- 헤더 이미지 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=MIN2EO's%20GITHUB&fontSize=50&fontAlign=70&fontAlignY=36&animation=twinkling)
 
-## 🛠️ 기술 스택 (Tech Stack)
+## 기술 스택 (Tech Stack)
 
 <p align="center">
   <!-- Kotlin -->
@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eric91405&show_icons=true&theme=tokyonight" height="180" />
