@@ -1,8 +1,9 @@
 <!-- 헤더 이미지 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=MIN2EO's%20GITHUB&fontSize=50&fontAlign=70&fontAlignY=36&animation=twinkling)
-## 기술 스택 (Tech Stack)
 
-<p align="left">
+## 🛠️ 기술 스택 (Tech Stack)
+
+<p align="center">
   <!-- Kotlin -->
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   
@@ -19,10 +20,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
   <!-- SQLite -->
-  <img src="https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-<br />
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric91405)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric91405)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eric91405&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric91405&layout=compact&theme=tokyonight" height="180" />
+</p>
