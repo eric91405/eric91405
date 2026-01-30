@@ -22,10 +22,3 @@
   <!-- SQLite -->
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
-
-## Github Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eric91405&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric91405&layout=compact&theme=tokyonight" height="180" />
-</p>
