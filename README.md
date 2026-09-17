@@ -1,4 +1,4 @@
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Main
 
@@ -30,13 +30,13 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [🐤 삐약뱅크](https://github.com/eric91405/piyak-bank-ios) | 실시간 시급 적산과 캐릭터 육성을 결합한 iOS·watchOS 앱입니다. Apple Watch 동기화, 인앱결제, 위젯, 온디바이스 AI를 지원합니다. | `Swift` `SwiftUI` `SwiftData` `watchOS` |
-| [🥐 오늘의빵](https://github.com/eric91405/todaybread-front) | 주변 빵집 탐색부터 장바구니와 결제까지 지원하는 Flutter 기반 지역 빵집 플랫폼입니다. 지도·위치·API·Firebase 알림 기능을 구현했습니다. | `Flutter` `Dart` `Firebase` `REST API` |
-| [🚑 ERSync](https://github.com/Hansung-ERsync/ersync-front-app) | 구급대원과 응급의료기관을 연결하는 응급환자 이송 지원 앱입니다. 환자 평가, 병원 탐색, 이송 요청과 진행 상태 관리를 지원합니다. | `Flutter` `Riverpod` `Dio` `Clean Architecture` |
+| [삐약뱅크](https://github.com/eric91405/piyak-bank-ios) | 실시간 시급 적산과 캐릭터 육성을 결합한 iOS·watchOS 앱입니다. Apple Watch 동기화, 인앱결제, 위젯, 온디바이스 AI를 지원합니다. | `Swift` `SwiftUI` `SwiftData` `watchOS` |
+| [오늘의빵](https://github.com/eric91405/todaybread-front) | 주변 빵집 탐색부터 장바구니와 결제까지 지원하는 Flutter 기반 지역 빵집 플랫폼입니다. 지도·위치·API·Firebase 알림 기능을 구현했습니다. | `Flutter` `Dart` `Firebase` `REST API` |
+| [ERSync](https://github.com/Hansung-ERsync/ersync-front-app) | 구급대원과 응급의료기관을 연결하는 응급환자 이송 지원 앱입니다. 환자 평가, 병원 탐색, 이송 요청과 진행 상태 관리를 지원합니다. | `Flutter` `Riverpod` `Dio` `Clean Architecture` |
 
 <br />
 
-## 🐍 Contributions
+## Contributions
 
 <p align="center">
   <picture>
